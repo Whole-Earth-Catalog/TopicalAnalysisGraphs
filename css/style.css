@@ -1,1 +1,67 @@
+h1 {
+    
+}
+.sect {
+    text-align: center;
+    padding: 70px 0;
+    height: 450px;
+    font-size: 50px;
+}
+#cl1_1500s {
+    background-image: url("../imgs/1500s_cl1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cl2_1500s {
+    background-image: url("../imgs/1500s_cl2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cl3_1500s {
+    background-image: url("../imgs/1500s_cl3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cl1_1600s {
+    background-image: url("../imgs/1600s_cl1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+#cl2_1600s {
+    background-image: url("../imgs/1600s_cl2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#cl3_1600s {
+    background-image: url("../imgs/1600s_cl3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#cl1_1700s {
+    background-image: url("../imgs/1700s_cl1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#cl2_1700s {
+    background-image: url("../imgs/1700s_cl2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#cl3_1700s {
+    background-image: url("../imgs/1700s_cl3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+    
+    
